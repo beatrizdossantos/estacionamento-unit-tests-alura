@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnIxEtE2j5quqtdRl+yy13TFvnQNnRG7rit5Q8fnT0cvbwldbIcySlcEvDzehclCLW0R3eihBWdZEIpE7N4mNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jujuk\\OneDrive\\Área de Trabalho\\Bia\\estacionamento-unit-tests\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jujuk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\jujuk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jujuk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jujuk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
